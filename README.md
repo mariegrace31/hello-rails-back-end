@@ -30,7 +30,7 @@
 # 📖 Rails API <a name="about-project"></a>
 
 **Rails API** an API igenerate random greeting.
-This is the link to the [frontend]()
+This is the link to the [frontend](https://github.com/mariegrace31/hello-rails-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
